@@ -1,0 +1,138 @@
+/* .sidebar {
+  background-color: #E1F9F4;
+  padding: 50px;
+  width: 30%;
+}
+
+.logo {
+  color: #1A1B1C;
+  margin-top: 0;
+}
+
+
+.nav-item {
+  font-family: "Source Sans Pro", sans-serif;
+  font-weight: 100;
+  font-size: 20px;
+  padding: 10px;
+  line-height: 35px;
+  color: #AAAAAA;
+  letter-spacing: 0%;
+  cursor: pointer; /* Add cursor pointer for clickable items 
+/* } */
+/* .nav-item1{
+  font-family: "Source Sans Pro", sans-serif;
+  font-weight: 100;
+  font-size: 20px;
+  padding: 10px;
+  line-height: 35px;
+  color: #2289FF;
+  letter-spacing: 0%;
+  cursor: pointer; 
+
+} */
+
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+}
+
+body {
+  background-color: #f9fafb;
+}
+
+.layout-container {
+  display: flex;
+  min-height: 100vh;
+}
+.layout-side-options.layout-selected {
+  color: #007BFF; /* Bootstrap blue */
+  font-size: 18px;
+  font-weight: 600;
+}
+
+
+.layout-sidebar {
+  width: 250px;
+  background-color: hsl(172, 64%, 89%);
+  padding: 20px;
+  font-family: Source Sans Pro;
+}
+
+.layout-sidebar h1 {
+  font-size: 30px;
+  width: 85px;
+  height: 44px;
+  top: 45px;
+  left: 107px;
+  line-height: 100%;
+  text-align: center;
+  font-weight: 700;
+  color: rgba(26, 27, 28, 1);
+  margin-bottom: 20px;
+  margin-top: 20px;
+  padding-left: 30px;
+}
+
+.layout-sidebar nav div {
+  margin-bottom: 20px;
+  color: rgba(180, 180, 198, 1);
+  display: flex;
+  margin-left: 10px;
+  align-items: center;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+
+.layout-side-options {
+  font-weight: 400;
+  line-height: 35px;
+  letter-spacing: 0.3px;
+}
+.logo{
+  color: #1A1B1C;
+  margin: 20px;
+}
+
+
+.layout-sidebar nav div i {
+  margin-right: 10px;
+  
+}
+
+
+/* .layout-main {
+  flex-grow: 1;
+  padding: 20px;
+  padding-top: 0;
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.layout-top-bar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 80px;
+  color: rgba(180, 180, 198, 1);
+  border-bottom: 3px solid hsl(172, 64%, 89%);
+}
+.user-id{
+  padding: 30px;
+}
+.layout-user-profile {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  cursor: pointer;
+  padding: 30px;
+}
+
+.layout-arrow-down {
+  font-size: 12px;
+  margin-left: 4px;
+} */
